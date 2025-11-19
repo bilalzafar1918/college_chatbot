@@ -44,27 +44,35 @@
   "campus": {
     "": "The MCM campus spans 120 acres divided into Academic, Residential, Sports & Training, Administrative, Medical & Service, and Future Expansion zones. It features steep slopes, terraces, natural water channels, summer temperatures of 15–25°C, winter -5–5°C with snowfall, and vegetation including Pine, Oak, and Deodar. The master plan has 5 phases including initial buildings, academic and residential facilities, library, mosque, auditorium, green energy, smart classrooms, and future expansion for Science Park and medical center."
   },
+
   "houses": {
     "houses_answer": "Military College Murree has six houses: Sarwar House, Tufail House, Mehfooz House, Lalak House, Sher Khan House, and Aziz Bhatti House. Each house is named after a Nishan-e-Haider recipient and represents values like Sacrifice, Bravery, Determination, Courage, Leadership, and Loyalty."
   },
+
   "sarwar_house": {
     "sarwar_answer": "Sarwar House is orange, named after Capt. Raja Muhammad Sarwar Shaheed, emphasizes Sacrifice, and accommodates 85 cadets."
   },
+
   "tufail_house": {
     "tufail_answer": "Tufail House is light blue, named after Maj. Tufail Muhammad Shaheed, emphasizes Bravery, and accommodates 85 cadets."
   },
+
   "mehfooz_house": {
     "mehfooz_answer": "Mehfooz House is yellow, named after Lance Naik Muhammad Mahfuz Shaheed, emphasizes Determination, and accommodates 85 cadets."
   },
+
   "lalak_house": {
     "lalak_answer": "Lalak House is black, named after Havaldar Lalak Jan Shaheed, emphasizes Courage, and accommodates 85 cadets."
   },
+
   "sher_khan_house": {
     "sher_khan_answer": "Sher Khan House is red, named after Capt. Karnal Sher Khan Shaheed, emphasizes Leadership, and accommodates 85 cadets."
   },
+
   "aziz_bhatti_house": {
     "aziz_bhatti_answer": "Aziz Bhatti House is navy blue, named after Maj. Raja Aziz Bhatti Shaheed, emphasizes Loyalty, and accommodates 85 cadets."
   },
+
   "daily_routine": {
     "": "The daily routine at MCM begins at 0445 hrs with wake-up and Fajr prayers, followed by physical training, breakfast, morning assembly, academic classes until 1330 hrs, lunch, Quran studies and prep, sports club, Maghrib prayers, dinner, evening prep, and lights out at 2130 hrs."
   },
