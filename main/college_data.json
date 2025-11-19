@@ -44,15 +44,12 @@
   "campus": {
     "campus_answer": "The MCM campus spans 120 acres divided into Academic, Residential, Sports & Training, Administrative, Medical & Service, and Future Expansion zones. It features steep slopes, terraces, natural water channels, summer temperatures of 15–25°C, winter -5–5°C with snowfall, and vegetation including Pine, Oak, and Deodar. The master plan has 5 phases including initial buildings, academic and residential facilities, library, mosque, auditorium, green energy, smart classrooms, and future expansion for Science Park and medical center."
   },
-
   "houses": {
     "houses_answer": "Military College Murree has six houses: Sarwar House, Tufail House, Mehfooz House, Lalak House, Sher Khan House, and Aziz Bhatti House. Each house is named after a Nishan-e-Haider recipient and represents values like Sacrifice, Bravery, Determination, Courage, Leadership, and Loyalty."
   },
-
   "sarwar_house": {
     "sarwar_answer": "Sarwar House is orange, named after Capt. Raja Muhammad Sarwar Shaheed, emphasizes Sacrifice, and accommodates 85 cadets."
   },
-
   "tufail_house": {
     "tufail_answer": "Tufail House is light blue, named after Maj. Tufail Muhammad Shaheed, emphasizes Bravery, and accommodates 85 cadets."
   },
@@ -148,6 +145,10 @@
     "who_are_you_answer": "I am a ChatBot created specifically to answer your questions regarding Military College Murree."
   },
   "website": {
-  "website_answer": "The website of Military College Murree is mcm.edu.pk"
+    "website_answer": "The website of Military College Murree is mcm.edu.pk"
+  },
+  "club": {
+    "club_answer": "Military College Murree offers a variety of vibrant clubs that help cadets explore their skills and passions.\nThese clubs provide hands-on learning, creativity, discipline, and physical fitness opportunities.\nTogether, they shape confident, talented, and well-rounded cadets ready to excel in every field.",
+    "club_include": "Computer Club, Biology Club, Physics Club, Chemistry Club, Karate Club, Gymnastics Club, Photography Club, Fine Arts Club"
   }
 }
