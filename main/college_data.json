@@ -1,128 +1,120 @@
 {
   "basic_info": {
-    "basic_info_answer": "Military College Murree (MCM) is located in Upper Topa, Murree Hills, Punjab, Pakistan, at an altitude of 7000 feet. Established on 1 September 2008, it serves as a feeder college for the Pakistan Military Academy (PMA). The college motto is 'Knowledge is My Strength (علم میری قوت)'. It offers education from Class VIII to XII in English and has a cadet capacity of 550.",
+    "": "Military College Murree (MCM) is located in Upper Topa, Murree Hills, Punjab, Pakistan, at an altitude of 7000 feet. Established on 1 September 2008, it serves as a feeder college for the Pakistan Military Academy (PMA). The college motto is 'Knowledge is My Strength (علم میری قوت)'. It offers education from Class VIII to XII in English and has a cadet capacity of 550.",
     "name": {
-      "name_answer": "The full name of the institution is Military College Murree (MCM)."
+      "": "The full name of the institution is Military College Murree (MCM)."
     },
     "nickname": {
-      "nickname_answer": "The nickname of Military College Murree is 'Himalians'."
+      "": "The nickname of Military College Murree is 'Himalians'."
     },
     "location": {
-      "location_answer": "Military College Murree is located in Upper Topa, Murree Hills, Punjab, Pakistan."
+      "": "Military College Murree is located in Upper Topa, Murree Hills, Punjab, Pakistan."
     },
     "altitude": {
-      "altitude_answer": "The college is situated at an altitude of approximately 7000 feet above sea level."
+      "": "The college is situated at an altitude of approximately 7000 feet above sea level."
     },
     "established": {
-      "established_answer": "Military College Murree was established on 1 September 2008."
+      "": "Military College Murree was established on 1 September 2008."
     },
     "type": {
-      "type_answer": "MCM serves as a feeder college for the Pakistan Military Academy (PMA)."
+      "": "MCM serves as a feeder college for the Pakistan Military Academy (PMA)."
     },
     "motto": {
-      "motto_answer": "The motto of Military College Murree is 'Knowledge is My Strength (علم میری قوت)'."
+      "": "The motto of Military College Murree is 'Knowledge is My Strength (علم میری قوت)'."
     },
     "colors": {
-      "colors_answer": "The official colors of MCM are Dark Green and White."
+      "": "The official colors of MCM are Dark Green and White."
     },
     "grades": {
-      "grades_answer": "MCM offers education from Class VIII to XII."
+      "": "MCM offers education from Class VIII to XII."
     },
     "medium_of_instruction": {
-      "medium_of_instruction_answer": "The medium of instruction at MCM is English."
+      "": "The medium of instruction at MCM is English."
     },
     "cadet_capacity": {
-      "cadet_capacity_answer": "Military College Murree has the capacity to accommodate 550 cadets."
+      "": "Military College Murree has the capacity to accommodate 550 cadets."
     }
   },
   "administration": {
-    "administration_answer": "The administration at MCM includes a principal and commandant from the Pakistan Army, supervised by GHQ Rawalpindi. Governance consists of Colonel Commandant appointed by GHQ, Principal Commandant as Senior Army Officer, Deputy Commandant as Lieutenant Colonel, Academic Coordinator as civilian PhD/MPhil, Adjutant as Captain/Major, and Administrative Officer managing logistics and cadet services. Faculty includes military instructors for physical training, drill, leadership, weapon training; civilian teachers for Science, Mathematics, Computer Science, English, Urdu, Islamic Studies; and medical staff comprising AMC officers, nurses, and paramedics."
+    "": "The administration at MCM includes a principal and commandant from the Pakistan Army, supervised by GHQ Rawalpindi. Governance consists of Colonel Commandant appointed by GHQ, Principal Commandant as Senior Army Officer, Deputy Commandant as Lieutenant Colonel, Academic Coordinator as civilian PhD/MPhil, Adjutant as Captain/Major, and Administrative Officer managing logistics and cadet services. Faculty includes military instructors for physical training, drill, leadership, weapon training; civilian teachers for Science, Mathematics, Computer Science, English, Urdu, Islamic Studies; and medical staff comprising AMC officers, nurses, and paramedics."
   },
   "history": {
-    "history_answer": "Military College Murree (MCM) was founded on 1 September 2008 and inaugurated by COAS General Ashfaq Parvez Kayani. The initial intake was 45 cadets with 12 military instructors, 8 civilian teachers, and 3 administrative officers. Its purpose is to serve as a feeder institution for PMA while providing leadership development, academic, and physical training."
+    "": "Military College Murree (MCM) was founded on 1 September 2008 and inaugurated by COAS General Ashfaq Parvez Kayani. The initial intake was 45 cadets with 12 military instructors, 8 civilian teachers, and 3 administrative officers. Its purpose is to serve as a feeder institution for PMA while providing leadership development, academic, and physical training."
   },
   "campus": {
-    "campus_answer": "The MCM campus spans 120 acres divided into Academic, Residential, Sports & Training, Administrative, Medical & Service, and Future Expansion zones. It features steep slopes, terraces, natural water channels, summer temperatures of 15–25°C, winter -5–5°C with snowfall, and vegetation including Pine, Oak, and Deodar. The master plan has 5 phases including initial buildings, academic and residential facilities, library, mosque, auditorium, green energy, smart classrooms, and future expansion for Science Park and medical center."
+    "": "The MCM campus spans 120 acres divided into Academic, Residential, Sports & Training, Administrative, Medical & Service, and Future Expansion zones. It features steep slopes, terraces, natural water channels, summer temperatures of 15–25°C, winter -5–5°C with snowfall, and vegetation including Pine, Oak, and Deodar. The master plan has 5 phases including initial buildings, academic and residential facilities, library, mosque, auditorium, green energy, smart classrooms, and future expansion for Science Park and medical center."
   },
-
   "houses": {
     "houses_answer": "Military College Murree has six houses: Sarwar House, Tufail House, Mehfooz House, Lalak House, Sher Khan House, and Aziz Bhatti House. Each house is named after a Nishan-e-Haider recipient and represents values like Sacrifice, Bravery, Determination, Courage, Leadership, and Loyalty."
   },
-
   "sarwar_house": {
     "sarwar_answer": "Sarwar House is orange, named after Capt. Raja Muhammad Sarwar Shaheed, emphasizes Sacrifice, and accommodates 85 cadets."
   },
-
   "tufail_house": {
     "tufail_answer": "Tufail House is light blue, named after Maj. Tufail Muhammad Shaheed, emphasizes Bravery, and accommodates 85 cadets."
   },
-
   "mehfooz_house": {
     "mehfooz_answer": "Mehfooz House is yellow, named after Lance Naik Muhammad Mahfuz Shaheed, emphasizes Determination, and accommodates 85 cadets."
   },
-
   "lalak_house": {
     "lalak_answer": "Lalak House is black, named after Havaldar Lalak Jan Shaheed, emphasizes Courage, and accommodates 85 cadets."
   },
-
   "sher_khan_house": {
     "sher_khan_answer": "Sher Khan House is red, named after Capt. Karnal Sher Khan Shaheed, emphasizes Leadership, and accommodates 85 cadets."
   },
-
   "aziz_bhatti_house": {
     "aziz_bhatti_answer": "Aziz Bhatti House is navy blue, named after Maj. Raja Aziz Bhatti Shaheed, emphasizes Loyalty, and accommodates 85 cadets."
   },
-
   "daily_routine": {
-    "daily_routine_answer": "The daily routine at MCM begins at 0445 hrs with wake-up and Fajr prayers, followed by physical training, breakfast, morning assembly, academic classes until 1330 hrs, lunch, Quran studies and prep, sports club, Maghrib prayers, dinner, evening prep, and lights out at 2130 hrs."
+    "": "The daily routine at MCM begins at 0445 hrs with wake-up and Fajr prayers, followed by physical training, breakfast, morning assembly, academic classes until 1330 hrs, lunch, Quran studies and prep, sports club, Maghrib prayers, dinner, evening prep, and lights out at 2130 hrs."
   },
   "academics": {
-    "academics_answer": "MCM academics include Middle Section subjects: English, Urdu, Mathematics, General Science, Islamiyat, Pakistan Studies, and Computer Studies. Higher Secondary Section offers Pre-Engineering, Pre-Medical, and Computer Science streams. Assessment is continuous including tests, midterms, practicals, and final exams under BISE Rawalpindi."
+    "": "MCM academics include Middle Section subjects: English, Urdu, Mathematics, General Science, Islamiyat, Pakistan Studies, and Computer Studies. Higher Secondary Section offers Pre-Engineering, Pre-Medical, and Computer Science streams. Assessment is continuous including tests, midterms, practicals, and final exams under BISE Rawalpindi."
   },
   "training": {
-    "training_answer": "MCM training includes military exercises like parade drills, shooting practice, leadership exercises, and basic fieldcraft; adventure activities like trekking, paragliding, rock climbing, horse riding, and obstacle course; and leadership camps held annually at Kakul or Mangla."
+    "": "MCM training includes military exercises like parade drills, shooting practice, leadership exercises, and basic fieldcraft; adventure activities like trekking, paragliding, rock climbing, horse riding, and obstacle course; and leadership camps held annually at Kakul or Mangla."
   },
   "extracurricular": {
-    "extracurricular_answer": "MCM extracurricular activities include clubs such as Debating Society, Science Club, IT Club, Literary Societies, Adventure & Hiking Club, and Community Service Club. Sports include Cricket, Football, Hockey, Basketball, Volleyball, Squash, Athletics, Table Tennis, Judo, and Karate. Competitions include inter-house academic and sports events and inter-college competitions."
+    "": "MCM extracurricular activities include clubs such as Debating Society, Science Club, IT Club, Literary Societies, Adventure & Hiking Club, and Community Service Club. Sports include Cricket, Football, Hockey, Basketball, Volleyball, Squash, Athletics, Table Tennis, Judo, and Karate. Competitions include inter-house academic and sports events and inter-college competitions."
   },
   "infrastructure": {
-    "infrastructure_answer": "The infrastructure at MCM is designed to support academic excellence, co-curricular growth, and comfortable residential life for cadets. It includes purpose-built academic blocks, sports complexes, a modern library, well-equipped mess, mosque, medical centre, auditorium, and advanced utility systems that ensure uninterrupted services across campus.",
+    "": "The infrastructure at MCM is designed to support academic excellence, co-curricular growth, and comfortable residential life for cadets. It includes purpose-built academic blocks, sports complexes, a modern library, well-equipped mess, mosque, medical centre, auditorium, and advanced utility systems that ensure uninterrupted services across campus.",
     "academic_block": {
-      "academic_block_answer": "The academic block at MCM has 3 floors with 30 classrooms, labs for Physics, Chemistry, Biology, and Computer Science, multimedia teaching halls, faculty rooms, conference chambers, and a basement shelter."
+      "": "The academic block at MCM has 3 floors with 30 classrooms, labs for Physics, Chemistry, Biology, and Computer Science, multimedia teaching halls, faculty rooms, conference chambers, and a basement shelter."
     },
     "library": {
-      "library_answer": "The library at MCM covers 15,000 sqft, holds 10,000 books and 2,000 digital titles, and has a reading hall with a capacity of 100 students."
+      "": "The library at MCM covers 15,000 sqft, holds 10,000 books and 2,000 digital titles, and has a reading hall with a capacity of 100 students."
     },
     "mess": {
-      "mess_answer": "The mess at MCM has a capacity of 450 students, offers modern steam-cooking facilities, and includes separate divisions for each house."
+      "": "The messes at MCM have a capacity of 200 students, offers modern steam-cooking facilities, and includes separate divisions for each house. There are three mess for cadets. "
     },
     "sports_complex": {
-      "sports_complex_answer": "The sports complex at MCM includes facilities for football, hockey, cricket, basketball, volleyball, athletics, squash, and tennis, providing comprehensive training and practice areas for cadets."
+      "": "The sports complex at MCM includes facilities for football, hockey, cricket, basketball, volleyball, athletics, squash, and tennis, providing comprehensive training and practice areas for cadets."
     },
     "medical_centre": {
-      "medical_centre_answer": "The medical centre at MCM has 10 beds, includes an isolation ward, a dedicated 4x4 ambulance, and provides on-call doctor services for cadets."
+      "": "The medical centre at MCM has 10 beds, includes an isolation ward, a dedicated 4x4 ambulance, and provides on-call doctor services for cadets."
     },
     "mosque": {
-      "mosque_answer": "The mosque at MCM accommodates 600 people, follows Ottoman-inspired dome architecture, and conducts daily prayers, Friday sermons, and Quran classes."
+      "": "The mosque at MCM accommodates 600 people, follows Ottoman-inspired dome architecture, and conducts daily prayers, Friday sermons, and Quran classes."
     },
     "auditorium": {
-      "auditorium_answer": "The auditorium at MCM has a seating capacity of 500, a stage measuring 12 by 10 meters, and features NUST-engineered acoustics for optimal sound quality."
+      "": "The auditorium at MCM has a seating capacity of 500, a stage measuring 12 by 10 meters, and features NUST-engineered acoustics for optimal sound quality."
     },
     "utilities": {
-      "utilities_answer": "Utilities at MCM include water supply via bore wells, rainwater harvesting, and RO plant for the mess; electricity provided by IESCO grid, 150 kW solar panels, and diesel generator backup; communications through LAN, campus Wi-Fi, and PA system; and waste management with a central sewage plant, recycling, and composting."
+      "": "Utilities at MCM include water supply via bore wells, rainwater harvesting, and RO plant for the mess; electricity provided by IESCO grid, 150 kW solar panels, and diesel generator backup; communications through LAN, campus Wi-Fi, and PA system; and waste management with a central sewage plant, recycling, and composting."
     }
   },
   "environment": {
-    "environment_answer": "The MCM environment features flora such as Pine, Oak, Deodar, and flowering shrubs; fauna including squirrels, birds, and small mammals; and landscape features like terraced lawns, memorial square, viewpoints, and seasonal gardens."
+    "": "The MCM environment features flora such as Pine, Oak, Deodar, and flowering shrubs; fauna including squirrels, birds, and small mammals; and landscape features like terraced lawns, memorial square, viewpoints, and seasonal gardens."
   },
   "admissions": {
-    "admissions_answer": "Admissions at MCM are open for Class VIII and Intermediate XI. Eligibility requires Pakistani boys who are medically fit, age-appropriate, and meet minimum marks. Applications close in September, tests are conducted in October, and interviews in January. Quotas include children of Army personnel, civilian quota, and provincial quotas for Balochistan, GB, AJ&K, and FATA."
+    "": "Admissions at MCM are open for Class VIII and Intermediate XI. Eligibility requires Pakistani boys who are medically fit, age-appropriate, and meet minimum marks. Applications close in September, tests are conducted in October, and interviews in January. Quotas include children of Army personnel, civilian quota, and provincial quotas for Balochistan, GB, AJ&K, and FATA."
   },
   "achievements": {
-    "achievements_answer": "Notable alumni of MCM include graduates who join PMA and some selected for foreign military academies in USA, Australia, and Germany. The college has top cadet college rankings in Pakistan and is recognized for excellence in academics, sports, and leadership."
+    "": "Notable alumni of MCM include graduates who join PMA and some selected for foreign military academies in USA, Australia, and Germany. The college has top cadet college rankings in Pakistan and is recognized for excellence in academics, sports, and leadership."
   },
   "relation_with_army": {
-    "relation_with_army_answer": "MCM is under the direct supervision of the Pakistan Army. Graduates are encouraged to join PMA Kakul. Army officers serve as instructors, administrators, and mentors to guide cadets in academics, military training, and leadership development."
+    "": "MCM is under the direct supervision of the Pakistan Army. Graduates are encouraged to join PMA Kakul. Army officers serve as instructors, administrators, and mentors to guide cadets in academics, military training, and leadership development."
   },
   "commandants": {
     "commandants_list": [
@@ -138,9 +130,12 @@
     "current_commandant": "Brig Adnan Bashir Dhariwal, PR"
   },
   "cyber_nest": {
-    "cyber_nest_answer": "The State-of-the-Art Cyber Nest at Military College Murree empowers cadets with advanced digital literacy and technical mastery. Equipped with modern computing infrastructure and secure learning environments, it prepares students for emerging cyber challenges. This cutting-edge hub stands as a testament to MCM’s commitment to technological excellence."
+    "": "The State-of-the-Art Cyber Nest at Military College Murree empowers cadets with advanced digital literacy and technical mastery. Equipped with modern computing infrastructure and secure learning environments, it prepares students for emerging cyber challenges. This cutting-edge hub stands as a testament to MCM’s commitment to technological excellence."
   },
   "fees": {
-    "fees_answer": "The annual cost at MCM includes tuition, hostel, messing, uniforms, and utilities. Fees depend on the category and class of cadets. Officers: 10,000–12,000 PKR, Soldiers: 5,000–6,000 PKR, Civilians: 18,000–20,000 PKR."
+    "": "The annual cost at MCM includes tuition, hostel, messing, uniforms, and utilities. Fees depend on the category and class of cadets. Officers: 10,000–12,000 PKR, Soldiers: 5,000–6,000 PKR, Civilians: 18,000–20,000 PKR."
+  },
+  "who_are_you": {
+    "": "I am a ChatBot created specifically to answer your questions regarding Military College Murree."
   }
 }
