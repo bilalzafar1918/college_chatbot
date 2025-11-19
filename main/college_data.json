@@ -126,6 +126,7 @@
   },
   "commandants": {
     "commandants_list": [
+      "The commandants list include",
       "Col M. Riaz Shaheen, AEC",
       "Brig. Shiraz Ullah Ch, BR",
       "Brig Abdul Hayee, Engrs",
@@ -145,5 +146,8 @@
   },
   "who_are_you": {
     "": "I am a ChatBot created specifically to answer your questions regarding Military College Murree."
+  },
+  "website": {
+  "": "The website of Military College Murree is mcm.edu.pk"
   }
 }
