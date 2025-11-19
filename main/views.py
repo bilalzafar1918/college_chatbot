@@ -6,6 +6,7 @@ from django.shortcuts import render
 def home(request):
     return render(request, 'main/home.html')
 
+
 def get_response(request):
     if request.method == "POST":
         user_message = request.POST.get('message', '').lower().strip()
@@ -20,18 +21,27 @@ def get_response(request):
         # --- Helper function to fetch answer ---
         def fetch_answer(key, value):
             answer_key = f"{key}_answer"
+
+            # Case: dictionary has an "xyz_answer" key
             if isinstance(value, dict) and answer_key in value:
                 return value[answer_key]
 
+            # Special case: environment
             if key in ['flora', 'fauna', 'landscape_features', 'environment']:
-                env_answer = data.get('environment', {}).get('environment_answer', None)
+                env_answer = data.get('environment', {}).get('', None)
                 if env_answer:
                     return env_answer
 
+            # If value itself is a dict: combine its child values
             if isinstance(value, dict):
-                return ", ".join([f"{k.replace('_', ' ')}: {v}" for k, v in value.items()])
+                return ", ".join([
+                    str(v) for v in value.values()
+                    if isinstance(v, str)
+                ])
 
+            # If value is list
             if isinstance(value, list):
+                # House answers list
                 if all(isinstance(i, dict) for i in value):
                     answers = []
                     for item in value:
@@ -40,10 +50,12 @@ def get_response(request):
                     return "\n".join(answers)
                 return ", ".join(str(i) for i in value)
 
-            return f"The {key.replace('_', ' ')} of MCM is {value}."
+            # Simply return the value (string, number etc.)
+            return str(value)
 
-        # --- Flatten JSON for quick key lookup ---
+        # --- Flatten JSON keys ---
         flat_data = {}
+
         def flatten_json(obj, prefix=''):
             if isinstance(obj, dict):
                 for k, v in obj.items():
@@ -53,40 +65,45 @@ def get_response(request):
                 flat_data[prefix] = obj
             else:
                 flat_data[prefix] = obj
+
         flatten_json(data)
 
-        # --- Handle houses ---
+        # --- Handle Houses (Sarwar, Tufail, etc.) ----
         houses_data = data.get("houses", {})
         house_found = False
 
-        # Check if user asked for a specific house
         for key, house in houses_data.items():
             if key == "houses_answer":
-                continue  # skip general answer
+                continue  # Skip general answer
+
             house_name_lower = key.replace("_house", "").replace("_", " ")
+
             if house_name_lower in user_message:
-                # Get the answer dynamically
-                answer_key = list(house.keys())[0]  # e.g., 'sarwar_answer'
+                # Example: key = "sarwar_house", house = {"sarwar_answer": "..."}
+                answer_key = list(house.keys())[0]
                 response = house[answer_key]
                 house_found = True
                 break
 
-        # If user asked "houses" generally
+        # If user asked about houses generally
         if not house_found and ("house" in user_message or "houses" in user_message):
-            general_list = []
-            for key, house in houses_data.items():
-                if key == "houses_answer":
-                    continue
-                answer_key = list(house.keys())[0]
-                general_list.append(house[answer_key])
-            response = houses_data.get("houses_answer", "MCM has the following houses:") + "\n" + "\n".join(general_list)
+            general = houses_data.get("houses_answer", "MCM has the following houses:")
+            response = general
+            return JsonResponse({"response": response})
 
-        # If not a house query, search other keys in flattened JSON
-        if not house_found and "house" not in user_message and "houses" not in user_message:
+        # --- Search flattened JSON if not house-related ---
+        if not house_found:
+            # 1. Try exact match
+            exact_key = user_message.replace(" ", "_")
+            if exact_key in flat_data:
+                response = fetch_answer(exact_key, flat_data[exact_key])
+                return JsonResponse({"response": response})
+
+            # 2. Try partial match: any word matches JSON key
             for key, value in flat_data.items():
-                if key in user_message or any(word in key for word in user_message.split()):
+                if any(word in key for word in user_message.split()):
                     response = fetch_answer(key, value)
-                    break
+                    return JsonResponse({"response": response})
 
         return JsonResponse({"response": response})
 
