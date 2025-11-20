@@ -222,8 +222,8 @@
       chatLog.appendChild(loadingBubble);
       chatLog.scrollTop = chatLog.scrollHeight;
 
-      // Wait 1.5 seconds before fetching
-      await new Promise(resolve => setTimeout(resolve, 1500));
+      // Wait 1 seconds before fetching
+      await new Promise(resolve => setTimeout(resolve, 1000));
 
       // Fetch response from backend
       const response = await fetch("/get-response/", {
@@ -248,4 +248,5 @@
     };
   </script>
 </body>
+
 </html>
