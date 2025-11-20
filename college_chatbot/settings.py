@@ -132,5 +132,5 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 TEMPLATES[0]['DIRS'] = [os.path.join(BASE_DIR, 'templates')]
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static')
+    os.path.join(BASE_DIR, 'main', 'static'),
 ]
