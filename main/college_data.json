@@ -53,23 +53,18 @@
   "tufail_house": {
     "tufail_answer": "Tufail House is light blue, named after Maj. Tufail Muhammad Shaheed, emphasizes Bravery, and accommodates 85 cadets."
   },
-
   "mehfooz_house": {
     "mehfooz_answer": "Mehfooz House is yellow, named after Lance Naik Muhammad Mahfuz Shaheed, emphasizes Determination, and accommodates 85 cadets."
   },
-
   "lalak_house": {
     "lalak_answer": "Lalak House is black, named after Havaldar Lalak Jan Shaheed, emphasizes Courage, and accommodates 85 cadets."
   },
-
   "sher_khan_house": {
     "sher_khan_answer": "Sher Khan House is red, named after Capt. Karnal Sher Khan Shaheed, emphasizes Leadership, and accommodates 85 cadets."
   },
-
   "aziz_bhatti_house": {
     "aziz_bhatti_answer": "Aziz Bhatti House is navy blue, named after Maj. Raja Aziz Bhatti Shaheed, emphasizes Loyalty, and accommodates 85 cadets."
   },
-
   "daily_routine": {
     "daily_routine_answer": "The daily routine at MCM begins at 0445 hrs with wake-up and Fajr prayers, followed by physical training, breakfast, morning assembly, academic classes until 1330 hrs, lunch, Quran studies and prep, sports club, Maghrib prayers, dinner, evening prep, and lights out at 2130 hrs."
   },
@@ -148,7 +143,10 @@
     "website_answer": "The website of Military College Murree is mcm.edu.pk"
   },
   "club": {
-    "club_answer": "Military College Murree offers a variety of vibrant clubs that help cadets explore their skills and passions.\nThese clubs provide hands-on learning, creativity, discipline, and physical fitness opportunities.\nTogether, they shape confident, talented, and well-rounded cadets ready to excel in every field.",
+    "club_answer": "Military College Murree offers a variety of vibrant clubs that help cadets explore their skills and passions.These clubs provide hands-on learning, creativity, discipline, and physical fitness opportunities.\nTogether, they shape confident, talented, and well-rounded cadets ready to excel in every field.",
     "club_include": "Computer Club, Biology Club, Physics Club, Chemistry Club, Karate Club, Gymnastics Club, Photography Club, Fine Arts Club"
+  },
+  "faculty": {
+    "faculty_answer": "Faculty includes military instructors for physical training, drill, leadership, weapon training; civilian teachers for Science, Mathematics, Computer Science, English, Urdu, Islamic Studies; and medical staff comprising AMC officers, nurses, and paramedics."
   }
 }
